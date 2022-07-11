@@ -1,0 +1,16 @@
+.main{
+    height:22rem;
+    width:28rem;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:1.25rem ;
+}
+.image{
+    height:9rem;
+    width:15rem;
+    margin-top: 1rem;
+}
+.title{
+    font-weight: bold;
+    font-size: 1rem;
+}

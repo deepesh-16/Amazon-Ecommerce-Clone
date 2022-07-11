@@ -1,0 +1,16 @@
+.main{
+    height:22rem;
+    width:28rem;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:1.25rem ;
+}
+.heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.cardmain{
+    width: 11rem;
+    height:8.5rem;
+    margin-left: 1rem;
+}
